@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.271
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreparationForBest", "PreparationForBest\PreparationForBest.csproj", "{127479E1-58A2-4931-943F-B9C61437BD42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePrograms", "PreparationForBest\SamplePrograms.csproj", "{127479E1-58A2-4931-943F-B9C61437BD42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{77D8628B-8D6B-4494-BC7A-C5C499FE9792}"
 EndProject
