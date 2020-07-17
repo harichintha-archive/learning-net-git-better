@@ -1,0 +1,7 @@
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\bin\Debug\PreparationForBest.exe.config
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\bin\Debug\PreparationForBest.exe
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\bin\Debug\PreparationForBest.pdb
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\obj\Debug\PreparationForBest.csprojAssemblyReference.cache
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\obj\Debug\PreparationForBest.csproj.CoreCompileInputs.cache
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\obj\Debug\PreparationForBest.exe
+C:\Users\Hari Chintha\source\repos\PreparationForBest\PreparationForBest\obj\Debug\PreparationForBest.pdb
